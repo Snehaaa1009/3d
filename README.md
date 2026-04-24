@@ -4,6 +4,10 @@ I built this project to practice end-to-end full-stack development for a 3D web 
 
 The app lets users browse products, open and customize 3D models, upload new products, and manage product data through a backend API.
 
+## Preview
+
+![Frontend preview](docs/images/frontend-home.png)
+
 ## Stack
 
 - Frontend: React, Vite, Tailwind CSS, Three.js, React Three Fiber, Drei
